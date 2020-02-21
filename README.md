@@ -55,6 +55,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Nasty Hacks</td><td></td><td>-</td></tr>
   <tr><td>Pet</td><td></td><td>-</td></tr>
   <tr><td>Piece of Cake</td><td></td><td>-</td></tr>
+  <tr><td>Planina</td><td></td><td>-</td></tr>
   <tr><td>Pot</td><td></td><td>-</td></tr>
   <tr><td>Provinces and Gold</td><td></td><td>-</td></tr>
   <tr><td>Quality Adjusted Life Year</td><td></td><td>-</td></tr>
@@ -69,7 +70,6 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Dice Cup</td><td>TODO</td><td>-</td></tr>
   <tr><td>Multi-Class Binary Neural Network for
           Handwritten Digits</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Planina</td><td>TODO</td><td>-</td></tr>
   <tr><td>Two-Class Binary Neural Network for
           Handwritten Digits</td><td>TODO</td><td>-</td></tr>
   <tr><td>Ladder</td><td>TRIED</td><td>-</td></tr>
@@ -116,6 +116,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>DRM Messages</td><td>TODO</td><td>-</td></tr>
   <tr><td>Goat Rope</td><td></td><td>-</td></tr>
   <tr><td>Help a PHD Candidate out</td><td></td><td>-</td></tr>
+  <tr><td>Job Expenses</td><td></td><td>-</td></tr>
   <tr><td>Mixed Fractions</td><td></td><td>-</td></tr>
   <tr><td>Odd Man Out</td><td></td><td>-</td></tr>
   <tr><td>Ptice</td><td></td><td>-</td></tr>
@@ -141,11 +142,14 @@ Tried problems from https://open.kattis.com/problems
 
   <tr><td>Aaah!</td><td></td><td>-</td></tr>
   <tr><td>A new Alphabet</td><td></td><td>-</td></tr>
+  <tr><td>Hangman</td><td></td><td>-</td></tr>
   <tr><td>Modulo</td><td></td><td>-</td></tr>
   <tr><td>One Chicken per Person</td><td></td><td>-</td></tr>
   <tr><td>Quick Brown Fox</td><td>TODO</td><td>-</td></tr>
   <tr><td>Run Length Encoding Run</td><td></td><td>-</td></tr>
   <tr><td>Server</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Some Sum</td><td></td><td>-</td></tr>
+  <tr><td>Synchronizing Lists</td><td></td><td>-</td></tr>
   <tr><td>Soda Surpler</td><td></td><td>-</td></tr>
   <tr><td>Soylent</td><td></td><td>-</td></tr>
   <tr><td>Sum Kind of Problem</td><td></td><td>-</td></tr>
@@ -163,6 +167,8 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>ABC</td><td></td><td>-</td></tr>
   <tr><td>A Rational Sequence (Take 3)</td><td>TRIED</td><td>-</td></tr>
   <tr><td>Bacon, eggs and span</td><td>TODO</td><td>-</td></tr>
+  <tr><td>Kafkaesque</td><td></td><td>-</td></tr>
+  <tr><td>Karte</td><td></td><td>-</td></tr>
   <tr><td>Mirror Images</td><td></td><td>-</td></tr>
   <tr><td>Oestgoetska</td><td></td><td>-</td></tr>
   <tr><td>Patuljci</td><td></td><td>-</td></tr>
@@ -222,14 +228,14 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Akcija</td><td>TODO</td><td>-</td></tr>
   <tr><td>Alien Numbers</td><td>TODO</td><td>-</td></tr>
   <tr><td>ASCII Addition</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Babelfish</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Babelfish</td><td>TRIED</td><td>Run Time Error because of the last test case</td></tr>
   <tr><td>Calories From Fat</td><td>TODO</td><td>-</td></tr>
   <tr><td>Completing the Square</td><td>TODO</td><td>-</td></tr>
   <tr><td>Cooking Water</td><td></td><td>-</td></tr>
   <tr><td>Deathstar</td><td>TODO</td><td>-</td></tr>
   <tr><td>Dreamer</td><td>TODO</td><td>-</td></tr>
   <tr><td>Driver's Dilemma</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Event Planning</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Event Planning</td><td>TRIED</td><td>wrong answer for 3rd test case</td></tr>
   <tr><td>Exactly Electrical</td><td>TODO</td><td>-</td></tr>
   <tr><td>George</td><td>TODO</td><td>-</td></tr>
   <tr><td>GlitchBot</td><td>TODO</td><td>-</td></tr>
@@ -244,11 +250,11 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Mars Window</td><td>TODO</td><td>-</td></tr>
   <tr><td>Musical Notation</td><td>TODO</td><td>-</td></tr>
   <tr><td>Numbers On a Tree</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Okvir</td><td>TODO</td><td>-</td></tr>
+  <tr><td>Okvir</td><td>TRIED</td><td>wrong answer for the last test case; for implementation</td></tr>
   <tr><td>Permuted Arithmetic Sequence</td><td>TODO</td><td>-</td></tr>
   <tr><td>Polynomial Multiplication 1</td><td>TODO</td><td>-</td></tr>
   <tr><td>Prerequisites?</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Recount</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Recount</td><td>TRIED</td><td>wrong answer for 6th test case</td></tr>
   <tr><td>Sideways Sorting</td><td></td><td>-</td></tr>
   <tr><td>Sort</td><td></td><td>-</td></tr>
   <tr><td>Tree Insertion</td><td>TODO</td><td>-</td></tr>
@@ -269,5 +275,6 @@ Tried problems from https://open.kattis.com/problems
   </tr>
 
   <tr><td>Mia</td><td></td><td>if/else implementation only</td></tr>
+  <tr><td>Video Speedup</td><td>TODO</td><td></td></tr>
   <tr><td>...</td><td></td><td></td></tr>
 </table>
