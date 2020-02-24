@@ -193,9 +193,12 @@ Tried problems from https://open.kattis.com/problems
 
   <tr><td>Cetiri</td><td>TRIED</td><td>-</td></tr>
   <tr><td>Euler's Number</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Okviri</td><td>TRIED</td><td>'Wrong answer' on the 5th test case; if/else implementation</td></tr>
+  <tr><td>Oktalni</td><td>TRIED</td><td>'Run Time Error' on the 6th test case.</td></tr>
   <tr><td>Preludes</td><td></td><td>-</td></tr>
   <tr><td>Quite a Problem</td><td></td><td>-</td></tr>
   <tr><td>Simple Addition</td><td></td><td>-</td></tr>
+  <tr><td>Timebomb</td><td></td><td>-</td></tr>
   <tr><td>toLower</td><td></td><td>-</td></tr>
   <tr><td>Veci</td><td>TODO</td><td>-</td></tr>
   <tr><td>...</td><td></td><td></td></tr>
@@ -228,7 +231,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Akcija</td><td>TODO</td><td>-</td></tr>
   <tr><td>Alien Numbers</td><td>TODO</td><td>-</td></tr>
   <tr><td>ASCII Addition</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Babelfish</td><td>TRIED</td><td>Run Time Error because of the last test case</td></tr>
+  <tr><td>Babelfish</td><td></td><td>Use scanner.next() and scanner.hasNext() as the end of the input file is not defined.</td></tr>
   <tr><td>Calories From Fat</td><td>TODO</td><td>-</td></tr>
   <tr><td>Completing the Square</td><td>TODO</td><td>-</td></tr>
   <tr><td>Cooking Water</td><td></td><td>-</td></tr>
@@ -274,6 +277,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Comment</th>
   </tr>
 
+  <tr><td>Bishops</td><td></td><td>Use scanner.next() and scanner.hasNext() as the end of the input file is not defined.</td></tr>
   <tr><td>Mia</td><td></td><td>if/else implementation only</td></tr>
   <tr><td>Video Speedup</td><td>TODO</td><td></td></tr>
   <tr><td>...</td><td></td><td></td></tr>
