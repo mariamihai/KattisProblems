@@ -1,4 +1,4 @@
-package difficulty_2.difficulty_2_0.TRIED_babelfish;
+package difficulty_2.difficulty_2_0.babelfish;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -21,23 +21,18 @@ public class Babelfish {
 
         StringBuilder builder = new StringBuilder();
 
-        scanner.forEachRemaining(str -> {
-            if(dictionary.containsKey(str)) {
-                builder.append(dictionary.get(str)).append("\n");
+        while(scanner.hasNext()) {
+            line = scanner.next();
+            if(line.equals("")) {
+                break;
+            }
+
+            if(dictionary.containsKey(line)) {
+                builder.append(dictionary.get(line)).append("\n");
             } else {
                 builder.append("eh\n");
             }
-        });
-
-//        while(scanner.hasNextLine()) {
-//            line = scanner.nextLine();
-//
-//            if(dictionary.containsKey(line)) {
-//                builder.append(dictionary.get(line) + "\n");
-//            } else {
-//                builder.append("eh\n");
-//            }
-//        }
+        }
 
         System.out.println(builder);
 
