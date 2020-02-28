@@ -87,8 +87,9 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Apaxiaaaaaaaaaaaans</td><td></td><td>-</td></tr>
   <tr><td>Avion</td><td></td><td>-</td></tr>
   <tr><td>Basketball One on One</td><td></td><td>-</td></tr>
+  <tr><td>Hot Hike</td><td></td><td>Keep track of the hottest day of the two used for hiking.</td></tr>
   <tr><td>Beavergnaw</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Judging Moose</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Judging Moose</td><td></td><td>'Not a moose' only if both sides have 0 number of tines.</td></tr>
   <tr><td>License to Launch</td><td></td><td>-</td></tr>
   <tr><td>No duplicates</td><td></td><td>-</td></tr>
   <tr><td>Number Fun</td><td></td><td>-</td></tr>
@@ -142,8 +143,11 @@ Tried problems from https://open.kattis.com/problems
 
   <tr><td>Aaah!</td><td></td><td>-</td></tr>
   <tr><td>A new Alphabet</td><td></td><td>-</td></tr>
+  <tr><td>Eligibility</td><td></td><td>Is eligible if any of the first two checks are true.</td></tr>
   <tr><td>Hangman</td><td></td><td>-</td></tr>
+  <tr><td>Left Beehind</td><td></td><td>First check that the sum is different than 13.</td></tr>
   <tr><td>Modulo</td><td></td><td>-</td></tr>
+  <tr><td>Moscow Dream</td><td></td><td>Check if n and the total number of available problems are valid.</td></tr>
   <tr><td>One Chicken per Person</td><td></td><td>-</td></tr>
   <tr><td>Quick Brown Fox</td><td>TODO</td><td>-</td></tr>
   <tr><td>Run Length Encoding Run</td><td></td><td>-</td></tr>
@@ -191,7 +195,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Comment</th>
   </tr>
 
-  <tr><td>Cetiri</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Cetiri</td><td>TRIED</td><td>'Wrong answer' for the last test case</td></tr>
   <tr><td>Euler's Number</td><td>TRIED</td><td>-</td></tr>
   <tr><td>Okviri</td><td>TRIED</td><td>'Wrong answer' on the 5th test case; if/else implementation</td></tr>
   <tr><td>Oktalni</td><td>TRIED</td><td>'Run Time Error' on the 6th test case.</td></tr>
@@ -281,4 +285,42 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Mia</td><td></td><td>if/else implementation only</td></tr>
   <tr><td>Video Speedup</td><td>TODO</td><td></td></tr>
   <tr><td>...</td><td></td><td></td></tr>
+</table>
+
+### Difficulty 2.2.
+
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>Status</th>
+    <th>Comment</th>
+  </tr>
+    
+  <tr><td>...</td><td></td><td></td></tr>
+</table>
+
+### Difficulty 2.3.
+
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>Status</th>
+    <th>Comment</th>
+  </tr>
+
+  <tr><td>A Different Problem</td><td></td><td>Use long.</td></tr>
+  <tr><td>...</td><td></td><td></td></tr>
+</table>
+
+### Difficulty 2.4.
+
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>Status</th>
+    <th>Comment</th>
+  </tr>
+
+  <tr><td>Drinking Song</td><td></td><td>Use long.</td></tr>
+  <tr><td>...</td><td>TRIED</td><td>'Wrong Answer' for second Test Case</td></tr>
 </table>
