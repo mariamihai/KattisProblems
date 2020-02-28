@@ -1,4 +1,4 @@
-package difficulty_1.difficulty_1_4.TRIED_judgingMoose;
+package difficulty_1.difficulty_1_4.judgingMoose;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class JudgingMoose {
         int l = scanner.nextInt();
         int r = scanner.nextInt();
 
-        if ( l == 0 || r == 0) {
+        if ( l == 0 && r == 0) {
             System.out.println("Not a moose");
             return;
         }
@@ -21,5 +21,7 @@ public class JudgingMoose {
         }
 
         System.out.println("Odd " + Math.max(l, r) * 2);
+
+        scanner.close();
     }
 }
