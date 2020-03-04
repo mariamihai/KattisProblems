@@ -196,6 +196,7 @@ Tried problems from https://open.kattis.com/problems
   </tr>
 
   <tr><td>Cetiri</td><td>TRIED</td><td>'Wrong answer' for the last test case</td></tr>
+  <tr><td>Emag Eht Htiw Em Pleh</td><td></td><td>-</td></tr>
   <tr><td>Euler's Number</td><td>TRIED</td><td>-</td></tr>
   <tr><td>Okviri</td><td>TRIED</td><td>'Wrong answer' on the 5th test case; if/else implementation</td></tr>
   <tr><td>Oktalni</td><td>TRIED</td><td>'Run Time Error' on the 6th test case.</td></tr>
@@ -321,6 +322,10 @@ Tried problems from https://open.kattis.com/problems
     <th>Comment</th>
   </tr>
 
-  <tr><td>Drinking Song</td><td></td><td>Use long.</td></tr>
-  <tr><td>...</td><td>TRIED</td><td>'Wrong Answer' for second Test Case</td></tr>
+  <tr><td>Antony and Diablo</td><td></td><td>Test for square.</td></tr>
+  <tr><td>Busy Schedule</td><td>TRIED</td><td>'Wrong Answer' for second Test Case.</td></tr>
+  <tr><td>Drinking Song</td><td>TRIED</td><td>'Wrong Answer' for second Test Case.</td></tr>
+  <tr><td>Help Me With The Game</td><td></td><td>To be refactored.</td></tr>
+  <tr><td>Which Base is it Anyway</td><td></td><td></td></tr>
+  <tr><td>...</td><td></td><td></td></tr>
 </table>
