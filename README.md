@@ -330,7 +330,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Drinking Song</td><td>TRIED</td><td>'Wrong Answer' for second Test Case.</td></tr>
   <tr><td>Help Me With The Game</td><td></td><td>To be refactored.</td></tr>
   <tr><td>I Wanna Be The Very Best</td><td>TRIED</td><td>"Run Time Error" on the second Test Case.</td></tr>
-  <tr><td>Metaprogramming</td><td>TRIED</td><td>"Wrong Answer" on the 9th Test Case.</td></tr>
+  <tr><td>Metaprogramming</td><td></td><td></td></tr>
   <tr><td>Music Your Way</td><td></td><td></td></tr>
   <tr><td>Which Base is it Anyway</td><td></td><td></td></tr>
   <tr><td>...</td><td></td><td></td></tr>
