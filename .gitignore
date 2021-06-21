@@ -24,3 +24,5 @@ hs_err_pid*
 
 /.idea/
 /KattisProblems.iml
+/KotlinImplementation/KotlinImplementation.iml
+/out/
