@@ -8,27 +8,36 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
-  <tr><td>Hello World</td><td></td><td>-</td></tr>
+  <tr>
+    <td>Hello World</td>
+    <td></td>
+    <td>-</td>
+    <td>Java, Kotlin</td>
+  </tr>
 </table>
 
-## Difficulty 1.2. - Completed
+## Difficulty 1.2.
 <table>
   <tr>
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
+  <tr><td>Add Two Numbers</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Autori</td><td></td><td>-</td></tr>
   <tr><td>Bijele</td><td></td><td>-</td></tr>
-  <tr><td>Cold Puter Science</td><td></td><td>-</td></tr>
+  <tr><td>Cold-Puter Science</td><td></td><td>-</td><td>Java,Kotlin</td></tr>
   <tr><td>Faktor</td><td></td><td>-</td></tr>
-  <tr><td>Filip</td><td></td><td>-</td></tr>
-  <tr><td>Fizz Buzz</td><td></td><td>-</td></tr>
+  <tr><td>Filip</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Fizz Buzz</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Jack-O'-Lantern Juxtaposition</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Oddities</td><td></td><td>-</td></tr>
-  <tr><td>Quadrant Selection</td><td></td><td>-</td></tr>
+  <tr><td>Quadrant Selection</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
 </table>
 
 ## Difficulty 1.3.
@@ -37,6 +46,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Batter Up</td><td></td><td>-</td></tr>
@@ -45,28 +55,34 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Cryptograpers Conundrum</td><td></td><td>-</td></tr>
   <tr><td>Datum</td><td></td><td>-</td></tr>
   <tr><td>Detailed Differences</td><td></td><td>-</td></tr>
-  <tr><td>Grass Seed Inc</td><td></td><td>-</td></tr>
+  <tr><td>Echo Echo Echo</td><td></td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Electrical Outlets</td><td></td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Grass Seed Inc</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Greetings</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Hanging Out on the Terrace</td><td></td><td>-</td></tr>
-  <tr><td>Heart Rate</td><td></td><td>-</td></tr>
+  <tr><td>Heart Rate</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Hissing Microphone</td><td></td><td>-</td></tr>
   <tr><td>IsItHalloween.comn</td><td></td><td>-</td></tr>
-  <tr><td>I've Been Everywhere, Man</td><td></td><td>-</td></tr>
-  <tr><td>Last Factorial Digit</td><td></td><td>-</td></tr>
-  <tr><td>Nasty Hacks</td><td></td><td>-</td></tr>
-  <tr><td>Pet</td><td></td><td>-</td></tr>
+  <tr><td>I've Been Everywhere, Man</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Jumbo Javelin</td><td></td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Last Factorial Digit</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Nasty Hacks</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Pet</td><td></td><td>Compile error in Kotlin</td><td>Java, Kotlin (to update)</td></tr>
   <tr><td>Piece of Cake</td><td></td><td>-</td></tr>
-  <tr><td>Planina</td><td></td><td>-</td></tr>
-  <tr><td>Pot</td><td></td><td>-</td></tr>
+  <tr><td>Planina</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Pot</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Provinces and Gold</td><td></td><td>-</td></tr>
-  <tr><td>Quality Adjusted Life Year</td><td></td><td>-</td></tr>
+  <tr><td>Quality Adjusted Life Year</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>R2</td><td></td><td>-</td></tr>
+  <tr><td>Rating Problems</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Roaming Romans</td><td></td><td>-</td></tr>
   <tr><td>Sibice</td><td></td><td>-</td></tr>
-  <tr><td>Solving for Carrots</td><td></td><td>-</td></tr>
+  <tr><td>Solving for Carrots</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Spavanac</td><td></td><td>-</td></tr>
-  <tr><td>Stuck in a Time Loop</td><td></td><td>-</td></tr>
+  <tr><td>Stopwatch</td><td></td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Stuck in a Time Loop</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Take Two Stones</td><td></td><td>-</td></tr>
-  <tr><td>Tarifa</td><td></td><td>-</td></tr>
+  <tr><td>Tarifa</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Dice Cup</td><td>TODO</td><td>-</td></tr>
   <tr><td>Multi-Class Binary Neural Network for
           Handwritten Digits</td><td>TODO</td><td>-</td></tr>
@@ -81,6 +97,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Alphabet Spam</td><td></td><td>-</td></tr>
@@ -91,7 +108,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Beavergnaw</td><td>TODO</td><td>-</td></tr>
   <tr><td>Judging Moose</td><td></td><td>'Not a moose' only if both sides have 0 number of tines.</td></tr>
   <tr><td>License to Launch</td><td></td><td>-</td></tr>
-  <tr><td>No duplicates</td><td></td><td>-</td></tr>
+  <tr><td>No duplicates</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Number Fun</td><td></td><td>-</td></tr>
   <tr><td>Poker Hand</td><td></td><td>-</td></tr>
   <tr><td>Seven Wonders</td><td></td><td>-</td></tr>
@@ -110,6 +127,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Baby Bites</td><td></td><td>-</td></tr>
@@ -139,6 +157,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Aaah!</td><td></td><td>-</td></tr>
@@ -146,7 +165,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Eligibility</td><td></td><td>Is eligible if any of the first two checks are true.</td></tr>
   <tr><td>Hangman</td><td></td><td>-</td></tr>
   <tr><td>Left Beehind</td><td></td><td>First check that the sum is different than 13.</td></tr>
-  <tr><td>Modulo</td><td></td><td>-</td></tr>
+  <tr><td>Modulo</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Moscow Dream</td><td></td><td>Check if n and the total number of available problems are valid.</td></tr>
   <tr><td>One Chicken per Person</td><td></td><td>-</td></tr>
   <tr><td>Quick Brown Fox</td><td>TODO</td><td>-</td></tr>
@@ -166,6 +185,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>ABC</td><td></td><td>-</td></tr>
@@ -193,6 +213,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Cetiri</td><td>TRIED</td><td>'Wrong answer' for the last test case</td></tr>
@@ -215,6 +236,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>3D Printed Statues</td><td></td><td>-</td></tr>
@@ -231,6 +253,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
   
   <tr><td>Akcija</td><td>TODO</td><td>-</td></tr>
@@ -280,6 +303,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Bishops</td><td></td><td>Use scanner.next() and scanner.hasNext() as the end of the input file is not defined.</td></tr>
@@ -295,6 +319,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
     
   <tr><td>...</td><td></td><td></td></tr>
@@ -307,6 +332,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>A Different Problem</td><td></td><td>Use long.</td></tr>
@@ -320,6 +346,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Problem</th>
     <th>Status</th>
     <th>Comment</th>
+    <th>Languages</th>
   </tr>
 
   <tr><td>Antony and Diablo</td><td></td><td>Test for square.</td></tr>
