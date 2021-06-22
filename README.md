@@ -30,8 +30,9 @@ Tried problems from https://open.kattis.com/problems
 
   <tr><td>Add Two Numbers</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Autori</td><td></td><td>-</td></tr>
-  <tr><td>Bijele</td><td></td><td>-</td></tr>
-  <tr><td>Cold-Puter Science</td><td></td><td>-</td><td>Java,Kotlin</td></tr>
+  <tr><td>Bijele</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Chanukah Challenge</td><td></td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Cold-Puter Science</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Faktor</td><td></td><td>-</td></tr>
   <tr><td>Filip</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Fizz Buzz</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
@@ -50,7 +51,7 @@ Tried problems from https://open.kattis.com/problems
   </tr>
 
   <tr><td>Batter Up</td><td></td><td>-</td></tr>
-  <tr><td>Bela</td><td></td><td>-</td></tr>
+  <tr><td>Bela</td><td></td><td>TODO in Kotlin</td><td>Java</td></tr>
   <tr><td>Cetvrta</td><td></td><td>-</td></tr>
   <tr><td>Cryptograpers Conundrum</td><td></td><td>-</td></tr>
   <tr><td>Datum</td><td></td><td>-</td></tr>
