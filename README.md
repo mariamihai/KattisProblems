@@ -50,7 +50,7 @@ Tried problems from https://open.kattis.com/problems
     <th>Languages</th>
   </tr>
 
-  <tr><td>Batter Up</td><td></td><td>-</td></tr>
+  <tr><td>Batter Up</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Bela</td><td></td><td>TODO in Kotlin</td><td>Java</td></tr>
   <tr><td>Cetvrta</td><td></td><td>-</td></tr>
   <tr><td>Cryptograpers Conundrum</td><td></td><td>-</td></tr>
@@ -63,10 +63,11 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Hanging Out on the Terrace</td><td></td><td>-</td></tr>
   <tr><td>Heart Rate</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Hissing Microphone</td><td></td><td>-</td></tr>
-  <tr><td>IsItHalloween.comn</td><td></td><td>-</td></tr>
+  <tr><td>IsItHalloween.com</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>I've Been Everywhere, Man</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Jumbo Javelin</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Last Factorial Digit</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Laptop Sticker</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Nasty Hacks</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Pet</td><td></td><td>Compile error in Kotlin</td><td>Java, Kotlin (to update)</td></tr>
   <tr><td>Piece of Cake</td><td></td><td>-</td></tr>
@@ -79,6 +80,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Roaming Romans</td><td></td><td>-</td></tr>
   <tr><td>Sibice</td><td></td><td>-</td></tr>
   <tr><td>Solving for Carrots</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Sort Two Numbers</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Spavanac</td><td></td><td>-</td></tr>
   <tr><td>Stopwatch</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Stuck in a Time Loop</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
@@ -102,9 +104,10 @@ Tried problems from https://open.kattis.com/problems
   </tr>
 
   <tr><td>Alphabet Spam</td><td></td><td>-</td></tr>
-  <tr><td>Apaxiaaaaaaaaaaaans</td><td></td><td>-</td></tr>
+  <tr><td>Apaxiaaaaaaaaaaaans</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Avion</td><td></td><td>-</td></tr>
   <tr><td>Basketball One on One</td><td></td><td>-</td></tr>
+  <tr><td>Homework</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Hot Hike</td><td></td><td>Keep track of the hottest day of the two used for hiking.</td></tr>
   <tr><td>Beavergnaw</td><td>TODO</td><td>-</td></tr>
   <tr><td>Judging Moose</td><td></td><td>'Not a moose' only if both sides have 0 number of tines.</td></tr>
@@ -112,12 +115,12 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>No duplicates</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Number Fun</td><td></td><td>-</td></tr>
   <tr><td>Poker Hand</td><td></td><td>-</td></tr>
-  <tr><td>Seven Wonders</td><td></td><td>-</td></tr>
+  <tr><td>Seven Wonders</td><td></td><td>Kotlin TRIED</td><td>Java</td></tr>
   <tr><td>Skener</td><td></td><td>-</td></tr>
   <tr><td>Speed Limit</td><td></td><td>-</td></tr>
   <tr><td>Sum Squared Digits Function</td><td></td><td>-</td></tr>
   <tr><td>The Amazing Human Cannonball</td><td></td><td>-</td></tr>
-  <tr><td>Trik</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Trik</td><td>TRIED in Java, done in Kotlin</td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Zamka</td><td></td><td>-</td></tr>
   <tr><td>...</td><td></td><td></td></tr>
 </table>
@@ -144,7 +147,7 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Reverse Binary Numbers</td><td></td><td>-</td></tr>
   <tr><td>Reverse Rot</td><td></td><td>-</td></tr>
   <tr><td>Rijeci</td><td></td><td>-</td></tr>
-  <tr><td>Simon Says</td><td></td><td>-</td></tr>
+  <tr><td>Simon Says</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Stacking Cups</td><td></td><td>-</td></tr>
   <tr><td>Symmetric Order</td><td></td><td>-</td></tr>
   <tr><td>Tais Formula</td><td></td><td>-</td></tr>
