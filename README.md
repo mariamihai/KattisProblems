@@ -70,14 +70,14 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Laptop Sticker</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Nasty Hacks</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Pet</td><td></td><td>Compile error in Kotlin</td><td>Java, Kotlin (to update)</td></tr>
-  <tr><td>Piece of Cake</td><td></td><td>-</td></tr>
+  <tr><td>Piece of Cake</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Planina</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Pot</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
-  <tr><td>Provinces and Gold</td><td></td><td>-</td></tr>
+  <tr><td>Provinces and Gold</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Quality Adjusted Life Year</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>R2</td><td></td><td>-</td></tr>
   <tr><td>Rating Problems</td><td></td><td>-</td><td>Kotlin</td></tr>
-  <tr><td>Roaming Romans</td><td></td><td>-</td></tr>
+  <tr><td>Roaming Romans</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Sibice</td><td></td><td>-</td></tr>
   <tr><td>Solving for Carrots</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Sort Two Numbers</td><td></td><td>-</td><td>Kotlin</td></tr>
@@ -91,7 +91,7 @@ Tried problems from https://open.kattis.com/problems
           Handwritten Digits</td><td>TODO</td><td>-</td></tr>
   <tr><td>Two-Class Binary Neural Network for
           Handwritten Digits</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Ladder</td><td>TRIED</td><td>-</td></tr>
+  <tr><td>Ladder</td><td>TRIED in Java</td><td>-</td><td>Java, Kotlin</td></tr>
 </table>
 
 ## Difficulty 1.4.
@@ -110,11 +110,12 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>Homework</td><td></td><td>-</td><td>Kotlin</td></tr>
   <tr><td>Hot Hike</td><td></td><td>Keep track of the hottest day of the two used for hiking.</td></tr>
   <tr><td>Beavergnaw</td><td>TODO</td><td>-</td></tr>
-  <tr><td>Judging Moose</td><td></td><td>'Not a moose' only if both sides have 0 number of tines.</td></tr>
+  <tr><td>Janitor Trouble</td><td>TODO</td><td>-</td><td>Kotlin</td></tr>
+  <tr><td>Judging Moose</td><td></td><td>'Not a moose' only if both sides have 0 number of tines.</td><td>Java, Kotlin</td></tr>
   <tr><td>License to Launch</td><td></td><td>-</td></tr>
   <tr><td>No duplicates</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
-  <tr><td>Number Fun</td><td></td><td>-</td></tr>
-  <tr><td>Poker Hand</td><td></td><td>-</td></tr>
+  <tr><td>Number Fun</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Poker Hand</td><td></td><td>Kotlin TRIED - compile error</td><td>Java, Kotlin</td></tr>
   <tr><td>Seven Wonders</td><td></td><td>Kotlin TRIED</td><td>Java</td></tr>
   <tr><td>Skener</td><td></td><td>-</td></tr>
   <tr><td>Speed Limit</td><td></td><td>-</td></tr>
@@ -139,12 +140,12 @@ Tried problems from https://open.kattis.com/problems
   <tr><td>DRM Messages</td><td>TODO</td><td>-</td></tr>
   <tr><td>Goat Rope</td><td></td><td>-</td></tr>
   <tr><td>Help a PHD Candidate out</td><td></td><td>-</td></tr>
-  <tr><td>Job Expenses</td><td></td><td>-</td></tr>
+  <tr><td>Job Expenses</td><td></td><td>Run Time Error in Kotlin</td><td>Java, Kotlin</td></tr>
   <tr><td>Mixed Fractions</td><td></td><td>-</td></tr>
   <tr><td>Odd Man Out</td><td></td><td>-</td></tr>
   <tr><td>Ptice</td><td></td><td>-</td></tr>
-  <tr><td>Quick Estimates</td><td></td><td>-</td></tr>
-  <tr><td>Reverse Binary Numbers</td><td></td><td>-</td></tr>
+  <tr><td>Quick Estimates</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
+  <tr><td>Reversed Binary Numbers</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
   <tr><td>Reverse Rot</td><td></td><td>-</td></tr>
   <tr><td>Rijeci</td><td></td><td>-</td></tr>
   <tr><td>Simon Says</td><td></td><td>-</td><td>Java, Kotlin</td></tr>
